@@ -1,7 +1,9 @@
-include<stdio.h
+#include<stdio.h>
+
 int main()
 
 {
-	puts ("hello World!");
+	printf ("hello World!");
+	printf ("Fare thee well!");
 	return 0;>
 }
